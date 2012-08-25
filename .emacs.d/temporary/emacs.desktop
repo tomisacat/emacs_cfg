@@ -1,0 +1,29 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sat Aug 25 12:26:40 2012
+;; Desktop file format version 206
+;; Emacs version 24.1.1
+
+;; Global section:
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("proc" "elisp" "search" ";" "Qt" "clos" "can_" "index_to_char" "dfa" "KEY_WORDS" "dfa_N" "nfa_NUMBER" "ttg" "thomp" "thompson" "nfa->type"))
+(setq regexp-search-ring '("he*"))
+(setq register-alist nil)
+(setq file-name-history '("/home/mario/test/c/test1.c" "/home/mario/test/c/font.c" "/usr/lib/gcc/x86_64-unknown-linux-gnu/4.7.1/include/stdbool.h" "/home/mario/test/c/stack2.c" "~/test/c/args.c" "~/test/c/testforpointer.c" "~/test/c/binsort.c" "~/test/c/swap.c" "~/test/c/static.c" "~/test/c/avl.c" "~/test/c/disk.c" "~/test/c/fork.c" "~/test/c/test4.c" "~/test/c/o.c" "~/test/c/once.c" "~/test/c/compute.c" "~/test/c/rr.c" "~/test/c/testt.c" "~/test/c/avl.h" "~/test/c/tree1.c" "~/test/c/linklist.c" "~/test/c/banker.c" "~/test/c/test2.c" "~/test/c/gcctest2.h" "~/test/c/gcctest1.c" "~/test/c/testforranmocy.c" "~/test/c/frog.c" "~/test/c/graph1.c" "~/test/c/recursive.c"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/mario/test/c/test1.c"
+  "test1.c"
+  'c-mode
+  '(auto-fill-mode abbrev-mode linum-mode doxymacs-mode global-auto-revert-mode hs-minor-mode yas/minor-mode auto-complete-mode)
+  205
+  '(205 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+

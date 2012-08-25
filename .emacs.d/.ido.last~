@@ -1,0 +1,163 @@
+;;; -*- coding: utf-8 -*-
+
+;.ido.last ----- ido-last-directory-list -----
+(
+ ("/home/" . "mike/")
+ ("/home/mike/documents/network/a2/telterm/" . "proto_doc/")
+ ("/home/mike/scripts/" . "autopost/")
+ ("/home/mike/playground/crf/nlpbamboo-read-only/source/" . "processor/")
+ ("/home/mike/playground/crf/nlpbamboo-read-only/" . "source/")
+ ("/home/mike/playground/crf/" . "nlpbamboo-read-only/")
+ ("/home/mike/playground/" . "crf/")
+ ("/mnt/source/workspace/inputmethod/sunpinyin2/debian/" . "xsunpinyin/")
+ ("/home/mike/.emacs.d/src/" . "lang-conf/")
+ ("/home/mike/documents/network/a2/" . "telterm/")
+ ("/home/mike/documents/network/" . "a3/")
+ ("/home/mike/documents/" . "resume/")
+ ("/mnt/source/workspace/inputmethod/sunpinyin2/src/" . "lexicon/")
+ ("/home/mike/.emacs.d/" . "src/")
+ ("/home/mike/" . ".emacs.d/")
+ ("/mnt/source/workspace/inputmethod/sunpinyin2/wrapper/" . "xim/")
+ ("/mnt/source/workspace/inputmethod/sunpinyin2/" . "src/")
+ ("/mnt/source/workspace/inputmethod/" . "sunpinyin2/")
+ ("/mnt/source/workspace/" . "inputmethod/")
+ ("/mnt/source/" . "workspace/")
+ ("/mnt/data/" . "Incomplete/")
+ ("/mnt/" . "source/")
+ ("/" . "tmp/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/mike/.emacs.d/src/"
+ "/home/mike/"
+ "/home/mike/playground/iciba/"
+ "/home/mike/documents/resume/"
+ "/tmp/"
+ "/home/mike/documents/network/a3/"
+ "/home/mike/.emacs.d/bundle/"
+ "/"
+ "/home/mike/documents/network/a2/telterm/report/"
+ "/home/mike/documents/network/a2/telterm/"
+ "/home/mike/documents/network/a2/telterm/proto/"
+ "/home/mike/scripts/autopost/"
+ "/home/mike/playground/crf/nlpbamboo-read-only/source/processor/"
+ "/mnt/source/workspace/inputmethod/sunpinyin2/debian/"
+ "/mnt/source/workspace/inputmethod/website/"
+ "/home/mike/.emacs.d/src/lang-conf/"
+ "/mnt/source/workspace/inputmethod/sunpinyin2/src/ime-core/"
+ "/mnt/source/workspace/inputmethod/sunpinyin2/src/lexicon/"
+ "/mnt/source/workspace/inputmethod/sunpinyin2/src/pinyin/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "global.el"
+ ".emacs"
+ "template_tailer"
+ "template_header"
+ "log.html"
+ "resume.tex"
+ "mcnabb-res.tex"
+ "test.c"
+ "a3.tex"
+ "vvb-mode.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/mike/.emacs.d/src/" (19345 22669) "lang-conf/" "cscope-config.el" "tabbar-config.el" "global.el" "htmlize-config.el" "global.elc" "cedet-config.el" "color-theme-config.el~" "bundle/" "yasnippet-config.el" "ecb-config.el" "template-config.el" "color-theme-config.el" "auctex-config.el" "../" "./")
+
+ ("/home/mike/.emacs.d/" (19345 21742) "yasnippet-config.elc" "snippets/" "auto-save-list/" "lang-conf/" "cscope-config.elc" "ac-config.elc" ".ido.last" "tutorial/" "tabbar-config.elc" "global.elc" "template-config.elc" "color-theme-config.elc" "bundle/" "emacs-template/" "auctex-config.elc" "tramp" "htmlize-config.elc" "url/" "src/" "../" "./")
+
+ ("/home/mike/" (19345 21735) ".histfile" "sougou.rar" ".printer-groups.xml" ".netbeans/" ".mailcap" ".gtk-recordmydesktop" ".sawfishrc" ".emacs.d/" ".xsession-errors" ".gtkrc-2.0" ".macromedia/" ".gtk-gnutella/" ".sawfish/" "NetBeansProjects/" ".aptitude/" ".emacs.bmk" ".sunpinyin/" "htdocs.7z" ".fontconfig/" ".xmodmaprc" "FrostWire/" ".zshrc" ".diffuse/" ".screenrc" ".subversion/" ".slime/" ".putty/" ".pulse/" ".local/" "topcoder/" ".jedit/" ".icons/" ".gtodo/" ".hgrc~" ".gnupg/" ".fonts/" ".gconf/" ".fehrc" ".fehbg" ".emacs" ".cache/" ".adobe/" ".aMule/" ".ido.last" ".recently-used" ".conkyrc" ".debtags/" ".netbeans-registration/" ".xsession-errors.old" ".pulse-cookie" "Hikari_Hayashibara_-_Lolita_Girls.zip" ".profile" ".gegl-0.0/" "amsn_received/" ".thumbnails/" ".screenlets/" ".ipython/" ".chewing/" ".glassfish/" ".templates/" ".Xdefaults" ".gstreamer-0.10/" "han.svg" ".gksu.lock" ".nbprofiler/" ".netbeans-derby/" ".nano_history" "gtk-gnutella-downloads/" ".bash_history" ".evolution/" ".gnuplot_history" "deploy/" ".argouml/" ".nautilus/" ".esd_auth" ".mysql_history" "autodrcom.sh" ".openoffice.org/" ".sudo_as_admin_successful" ".xchat2/" "Desktop/" "documents/" ".procmailrc" ".valide/" "RSBC_153.pdf" ".themes/" "shot0002.png" ".gitconfig" ".secret/" ".recently-used.xbel" ".purple/" ".ICEauthority" "kernel_src/" ".gtk-bookmarks" ".mysqlgui/" ".pcmanx/" ".gimp-2.6/" ".checkgmail/" "eng.svg" ".muttrc" ".wireshark/" ".bash_logout" "gtk-foobar/" "scripts/" ".gnome2/" "sch.odt" ".gconfd/" ".screen-profiles/" ".eshell/" ".emacs~" ".mozilla/" ".mplayer/" "style.css" ".gnuplot-wxt" ".asadmintruststore" ".config/" ".texmf-var/" ".chmsee/" "s.png" ".claws-mail/" ".gnome2_private/" ".fetchmailrc" ".bashrc" ".abbrev_defs" ".d-feet/" ".projects.ede" ".wine/" ".scim/" ".zcompdump" ".netx/" ".lftp/" ".java/" ".gvfs/" ".hgrc" ".dmrc" ".dbus/" ".amsn/" ".liferea_1.6/" ".stardict/" "custom-fan.sh" "playground/" "soft/" "note" "long" ".background/" "auto/" "Mail/" ".frostwire4.18/" ".octave_hist" ".ssh/" ".pki/" ".kde/" ".hgk" ".ede/" ".dia/" "tmp/" ".qt/" ".m2/" ".hg/" "../" "./")
+
+ ("/home/mike/playground/iciba/" (19344 43510) "fetcher.pyc" "fetcher.py" "log.html" "jquery-1.3.2.min.js" "template_header" "../" "./")
+
+ ("/home/mike/documents/resume/" (19344 13464) "resume.tex" "resume.pdf" "resume.log" "resume.dvi" "resume.aux" "mcnabb-res.tex" "auto/" "../" "./")
+
+ ("/tmp/" (19344 4388) "screenlets/" "pulse-4QByEaZNg4uc/" "orbit-mike/" "ssh-EnfLTj1787/" "hsperfdata_root/" ".esd-1000/" "emacs-terminfo/" ".sawfish-mike/" "orbit-gdm/" "pulse-PKdhtXMmr18n/" ".X11-unix/" "keyring-Wa1Wth/" ".X0-lock" ".ICE-unix/" ".esd-105/" "../" "./")
+
+ ("/home/mike/documents/network/a3/" (19343 6617) "a3.tex" "a3.log" "a3.dvi" "a3.aux" "auto/" "../" "./")
+
+ ("/home/mike/.emacs.d/bundle/" (19342 63423) "tabbar.elc" "git-emacs.elc" "vvb-mode.el" "git-status.elc" "template.elc" "git-log.elc" "color-theme-extra.elc" "themes/" "git-blame.elc" "mercurial.elc" "yasnippet.elc" "git-global-keys.elc" "js2-mode.elc" "git-modeline.elc" "dropdown-list.elc" "git-emacs-autoloads.elc" "sr-speedbar.elc" "color-theme.elc" "../" "./")
+
+ ("/mnt/source/workspace/inputmethod/sunpinyin2/src/ime-core/" (19338 3363) "imi_winHandler.cpp" "ic_history.cpp" "imi_view.h" "imi_defines.h" "imi_options.h" "imi_option_keys.h" "imi_keys.h" "utils.h" "imi_data.h" "imi_option_event.h" "userdict.h" "imi_view_classic.cpp" "cscope.out" "lattice_states.cpp" "imi_winHandler.h" "imi_context.h" "imi_options.cpp" "imi_option_event.cpp" "imi_funcobjs.h" "userdict.cpp" "imi_data.cpp" "imi_context.cpp" "imi_uiobjects.cpp" "ic_history.h" "imi_funcobjs.cpp" "imi_view.cpp" "lattice_states.h" "imi_uiobjects.h" "imi_view_classic.h" "../" "./")
+
+ ("/home/mike/documents/network/a2/telterm/proto/" (19339 24404) "term_type.o" "term_type.c" "misc.o" "misc.c" "UNSUPPORTED" "protocol.h" "env.o" "env.c" "../" "./")
+
+ ("/home/mike/documents/network/a2/telterm/" (19339 24404) "proto_doc/" "basic.h" "term.o" "term.h" "term.c" "report/" "main.o" "main.c" ".sconsign.dblite" "conn.o" "conn.h" "conn.c" "telterm" "README" "proto/" "cmd.o" "cmd.h" "cmd.c" "SConstruct" "Makefile" "../" "./")
+
+ ("/home/mike/documents/network/a2/telterm/report/" (19339 26608) "report.tex" "report.pdf" "report.log" "report.aux" "auto/" "../" "./")
+
+ ("/home/mike/tmp/" (19326 17240) "scalac-compile-server-port/" "output-redirects/" "../" "./")
+
+ ("/home/mike/documents/network/" (19342 48475) "hw5.pdf" "hw4.pdf" "hw3.pdf" "hw2.pdf" "hw1.pdf" "general.org" "syl.pdf" "chap2.pptx" "chap7.pdf" "chap5.pdf" "chap4.pdf" "chap3.pdf" "chap2.pdf" "chap1.pdf" "sol5.pdf" "sol4.doc" "sol3.doc" "sol1.doc" "a3/" "a2/" "a1/" "../" "./")
+
+ ("/home/mike/documents/network/a2/telterm/proto_doc/" (19320 35098) "rfc2948.txt" "rfc2946.txt" "rfc2944.txt" "rfc2943.txt" "rfc2942.txt" "rfc2941.txt" "rfc2217.txt" "rfc4777.txt" "rfc1572.txt" "rfc1372.txt" "summary" "rfc1205.txt" "rfc1184.txt" "rfc1096.txt" "rfc1091.txt" "pack2" "pack1" "rfc1079.txt" "rfc885.txt" "rfc1073.txt" "rfc861.txt" "rfc860.txt" "rfc859.txt" "rfc858.txt" "rfc857.txt" "rfc856.txt" "rfc855.txt" "rfc854.txt" "rfc1041.txt" "../" "./")
+
+ ("/home/mike/scripts/autopost/" (19335 10719) "post.sh" "log.html" "grab.sh" "content.sh" "go.sh" "board" "content" "../" "./")
+
+ ("/home/mike/documents/" (19335 33941) "resume/" "appeal.pdf" "haskell/" "sfusr550_1694795_2.PDF" "network/" "ObjC.pdf" "c99 standard.pdf" "module.pdf" "sca.jpeg" "paper/" "notes/" "multi/" "latex/" "books/" "C++ n3000.pdf" "misc/" "arch/" "gre/" "se/" "os/" "ai/" "../" "./")
+
+ ("/home/mike/scripts/" (19334 1274) "cpuspeed.sh" "solaris_vm.sh" "shutdown.py" "checkcomments.sh" "cputemp.sh" "mail.sh" "autopost/" "writemail.sh" "homepage.sh" "centos_vm.sh" "../" "./")
+
+ ("/home/mike/auto/" (19305 54045) "test.el" "_region_.el" "../" "./")
+
+ ("/mnt/source/workspace/inputmethod/sunpinyin2/src/pinyin/" (19325 61891) "datrie_impl.h" "shuangpin_data.h" "syllable.h" "pinyin_seg.cpp" "shuangpin_seg.cpp" "pinyin_data.h" "shuangpin_data.cpp" "pinyin_data.cpp" "pinyin_seg.h" "datrie.h" "shuangpin_seg.h" "../" "./")
+
+ ("/home/mike/.emacs.d/src/lang-conf/" (19325 37473) "javascript.el" "python.el" "org.el" "c-base.el" "lisp.el" "sgml.el" "../" "./")
+
+ ("/mnt/source/workspace/inputmethod/website/" (19325 58449) "source.html" "screenshot.html" "screenshots/" "images/" "download.html" "index.html" "blogs.html" "style.css" "../" "./")
+
+ ("/mnt/source/workspace/inputmethod/sunpinyin2/debian/" (19331 33858) "scim-sunpinyin.install" "stamp-autotools-files" "xsunpinyin.debhelper.log" "sunpinyin-data-be.install" "copyright" "sunpinyin-data-le/" "sunpinyin-data-be/" "xsunpinyin/" "xsunpinyin.substvars" "README.Debian" "xsunpinyin.install" "sunpinyin-data-be.debhelper.log" "ibus-sunpinyin.substvars" "ibus-sunpinyin.install" "sunpinyin-data-le.substvars" "compat" "ibus-sunpinyin.debhelper.log" "sunpinyin-data-le.install" "sunpinyin-data-be.substvars" "stamp-makefile-build" "changelog" "ibus-sunpinyin/" "rules" "files" "sunpinyin-data-le.debhelper.log" "control" "tmp/" "../" "./")
+
+ ("/home/mike/playground/crf/nlpbamboo-read-only/source/processor/" (19333 41247) "break_processor.hxx" "break_processor.cxx" "crf_ner_np_processor.hxx" "crf_ner_np_processor.cxx" "CMakeCache.txt" "crf_seg4ner_processor.hxx" "crf_seg4ner_processor.cxx" "CMakeFiles/" "maxforward_combine_processor.hxx" "maxforward_combine_processor.cxx" "prepare_processor.hxx" "prepare_processor.cxx" "crf_ner_nt_processor.hxx" "crf_ner_nt_processor.cxx" "maxforward_processor.hxx" "maxforward_processor.cxx" "crf_pos_processor.hxx" "crf_pos_processor.cxx" "ugm_seg_processor.hxx" "ugm_seg_processor.cxx" "crf_ner_ns_processor.hxx" "crf_ner_ns_processor.cxx" "experiment/" "processor_factory.hxx" "processor_factory.cxx" "rule.mk" "CMakeLists.txt" "single_combine_processor.hxx" "single_combine_processor.cxx" "crf_ner_nr_processor.hxx" "crf_ner_nr_processor.cxx" "crf_seg_processor.hxx" "crf_seg_processor.cxx" "processor.hxx" "processor.cxx" ".svn/" "../" "./")
+
+ ("/home/mike/playground/crf/nlpbamboo-read-only/source/" (19333 37716) "interface/" "include/" "processor/" "parser/" "regress_test/" "debugger/" "config/" "common/" "libbamboo.cxx" "experiment/" "rule.mk" "CMakeLists.txt" "lexicon/" "tools/" "utf8/" "trie/" "mmap/" ".svn/" "kea/" "cli/" "../" "./")
+
+ ("/home/mike/playground/crf/nlpbamboo-read-only/" (19333 38705) "source/" "Make.conf" "lib.release/" "makefile" "CMakeLists.txt" "build.release/" "template/" "configure" "cmake/" "build/" "Make.inc" "test/" "exts/" ".svn/" "lib/" "etc/" "doc/" "../" "./")
+
+ ("/home/mike/playground/crf/" (19333 39377) "seg.cc" "nlpbamboo-read-only/" "a.out" "index.tar.bz2" "../" "./")
+
+ ("/home/mike/playground/EWMH/" (19317 54295) "test.c" "cscope.out" "test" "../" "./")
+
+ ("/home/mike/playground/" (19333 36726) "python/" "haskell/" "open-gram/" "wmplg/" "sphinx-doc/" "objc/" "EWMH/" "kdb/" "gtk/" "git/" "crf/" "c++/" "../" "./")
+
+ ("/mnt/source/workspace/inputmethod/sunpinyin2/debian/xsunpinyin/" (19331 19904) "DEBIAN/" "usr/" "etc/" "../" "./")
+
+ ("/home/mike/documents/network/a2/" (19318 12726) "telterm/" "../" "./")
+
+ ("/mnt/source/workspace/inputmethod/" (19324 62377) "sunpinyin-data-be_2.0~hg20091111-1_all.deb" "sunpinyin_2.0~hg20091111-1.tar.gz.new.VSov01" "sunpinyin_2.0~hg20091111-1_i386.changes" "sunpinyin_2.0~hg20091111-1.tar.gz" "sunpinyin_2.0~hg20091111-1.tar.gz.new.W1EJl1" "sunpinyin-data-le_2.0~hg20091111-1_all.deb" ".hgignore" "ibus-sunpinyin_2.0~hg20091111-1_i386.deb" "sunpinyin2/" "sunpinyin_2.0~hg20091111-1.dsc" "sunpinyin/" "xsunpinyin_2.0~hg20091111-1_i386.deb" ".hgtags" "specs/" "iiim/" ".hg/" "../" "./")
+
+ ("/mnt/source/workspace/inputmethod/sunpinyin2/src/lexicon/" (19273 25260) "pytrie.cpp" "pytrie.h" "pytrie_gen.cpp" "pytrie_gen.h" "genPYT.cpp" "../" "./")
+
+ ("/mnt/source/workspace/inputmethod/sunpinyin2/src/" (19315 41728) "host_os.h" "pinyin/" "portability.h" "ime-core/" "Makefile.am" "config/" "lexicon/" "portability.cpp" "slm/" "../" "./")
+
+ ("/mnt/source/workspace/inputmethod/sunpinyin2/po/" (19315 41743) "POTFILES" "Makefile.in.in" "stamp-it" "zh_CN.gmo" "Makefile.in" "POTFILES.in" "Makefile" "zh_CN.po" "../" "./")
+
+ ("/mnt/source/workspace/inputmethod/sunpinyin2/wrapper/xim/" (19315 41843) "sunpinyin_preedit_gtk.h" "xsunpinyin-ic.o" "libsunpinyin_la-pytrie.lo" "libsunpinyin_la-imi_options.o" "libimdkit_la-i18nUtil.o" "xsunpinyin-main.o" "xsunpinyin_preferences-settings.o" "libimdkit_la-IMValues.lo" "libsunpinyin_la-shuangpin_seg.lo" "libsunpinyin.la" "xsunpinyin_preferences-xmisc.o" "libsunpinyin_la-lattice_states.o" "libimdkit_la-i18nIMProto.lo" "xsunpinyin-ic_gtk.o" "libsunpinyin_la-pytrie.o" "libsunpinyin_la-pinyin_seg.o" "libsunpinyin_la-pinyin_seg.lo" "libsunpinyin_la-portability.lo" "libsunpinyin_la-imi_view.lo" "libsunpinyin_la-imi_view_classic.o" "preferences.c" "sunpinyin_preedit.cc" "xsunpinyin-xim.o" "libsunpinyin_la-shuangpin_data.o" "libimdkit_la-IMConn.lo" "libsunpinyin_la-portability.o" "libsunpinyin_la-userdict.lo" "libimdkit_la-i18nClbk.o" "libsunpinyin_la-imi_context.o" "libimdkit_la-i18nAttr.o" "libimdkit_la-i18nPtHdr.lo" "libsunpinyin_la-imi_option_event.lo" "xsunpinyin-xim_trigger.o" "libimdkit_la-i18nClbk.lo" "xsunpinyin" "cscope.out" "libimdkit_la-i18nIc.lo" "libimdkit_la-i18nPtHdr.o" "libsunpinyin_la-imi_context.lo" "libsunpinyin_la-pinyin_data.o" "xsunpinyin-sunpinyin_preedit.o" "libsunpinyin_la-ic_history.o" "libsunpinyin_la-lattice_states.lo" "main.c" "libimdkit_la-IMMethod.o" "libsunpinyin_la-shuangpin_seg.o" "libsunpinyin_la-pinyin_data.lo" "settings.h" "settings.c" "libsunpinyin_la-imi_view.o" "Makefile.in" "Makefile.am" ".ropeproject/" "libsunpinyin_la-imi_uiobjects.o" "libsunpinyin_la-imi_funcobjs.o" "libimdkit_la-i18nAttr.lo" "xim_trigger.c" "common.h" "libsunpinyin_la-imi_options.lo" "libimdkit.la" "libsunpinyin_la-imi_uiobjects.lo" "xsunpinyin-settings.o" "libsunpinyin_la-imi_option_event.o" "libimdkit_la-i18nX.lo" "libimdkit_la-i18nIc.o" "libimdkit_la-i18nX.o" "libsunpinyin_la-imi_winHandler.o" "libsunpinyin_la-slm.o" "libsunpinyin_la-imi_view_classic.lo" "libimdkit_la-i18nUtil.lo" "libsunpinyin_la-ic_history.lo" "libsunpinyin_la-imi_funcobjs.lo" "libimdkit_la-IMValues.o" "libimdkit_la-IMConn.o" "xsunpinyin_preferences-preferences.o" "libsunpinyin_la-imi_data.o" "libsunpinyin_la-imi_winHandler.lo" "libsunpinyin_la-userdict.o" "xsunpinyin-preferences" "xsunpinyin.im-switch" "libimdkit_la-FrameMgr.o" "libimdkit_la-i18nMethod.o" "libsunpinyin_la-slm.lo" "README" "libimdkit_la-i18nIMProto.o" "xim.h" "xim.c" "im-switch/" "ic.cc" "xsunpinyin-xmisc.o" "libimdkit_la-FrameMgr.lo" "libimdkit_la-IMMethod.lo" "ic_gtk.c" "libimdkit_la-i18nMethod.lo" "IMdkit/" "xmisc.h" "xmisc.c" ".libs/" "Makefile" "libsunpinyin_la-imi_data.lo" "libsunpinyin_la-shuangpin_data.lo" "ic.h" "data/" "../" "./")
+
+ ("/mnt/source/workspace/inputmethod/sunpinyin2/wrapper/" (19315 41728) "Makefile.in" "Makefile.am" "gtk_standalone/" "macos/" "Makefile" "scim/" "ibus/" "beos/" "xim/" "cle/" "../" "./")
+
+ ("/mnt/source/workspace/inputmethod/sunpinyin2/" (19315 41728) "config.sub.cdbs-orig" "wrapper/" "py-compile" "COPYING" "ChangeLog" "LGPL.LICENSE" "OPENSOLARIS.LICENSE" "AUTHORS" "stamp-h1" "python/" "config.h.in" "Makefile.in" "Makefile.am" "config.h" "debian/" "missing" "config.sub" "config.log" "autogen.sh" "install-sh" "config.guess" "configure.ac" "libtool" "configure" "ltmain.sh" "README" "config.guess.cdbs-orig" "config.status" "aclocal.m4" "build/" "Makefile" "depcomp" "swap/" "data/" "TODO" "NEWS" "src/" "raw/" "doc/" "po/" "../" "./")
+
+ ("/mnt/source/workspace/ToyMIPS/" (19172 34445) ".sconsign.dblite" ".svnignore" "assm/" ".svn/" "src/" "lib/" "doc/" "../" "./")
+
+ ("/mnt/source/workspace/" (19273 23482) "ToyMIPS/" "leftTopShadow.xcf" "inputmethod/" "clickflash.pem" "clickflash.crx" "sunpinyin-collect/" "tzb_web/" "clickflash/" "scanocr/" "words/" "mblog/" "osac/" "jos/" "../" "./")
+
+ ("/mnt/source/" (19148 52830) "hacking/" "workspace/" ".Trash-1000/" "docs/" "acm/" "../" "./")
+
+ ("/mnt/data/Incomplete/" (19302 18485) "T-64367828-Teacher housewive nurse rape hentai anime incest teens hardcore fuck porn ebony cumshot animal horse asian indian3(1).mpg" "T-276148252-Xxx Hentai - Best sex Of Manga X - Porno-.mpg" "T-3706548-Westlife - What Makes A Man.mp3" "../" "./")
+
+ ("/mnt/data/" (19318 10099) "picture/" "lvba.mpeg" "share/" "frostwire/" "music/" ".Trash-1000/" "Incomplete/" "game/" "iso/" "vm/" "bt/" "../" "./")
+
+ ("/mnt/" (19067 2824) "source/" "data/" "tmp/" "../" "./")
+
+ ("/bin/" (19299 7906) "bunzip2" "nc.traditional" "dumpkeys" "dbus-uuidgen" "bzip2recover" "readlink" "ntfs-3g.probe" "ulockmgr_server" "setupcon" "run-parts" "ld_static" "zforce" "zfgrep" "zegrep" "fusermount" "dbus-cleanup-sockets" "ntfs-3g" "umount" "fgconsole" "loadkeys" "dnsdomainname" "sh.distrib" "openvt" "netcat" "mt-gnu" "mktemp" "hostname" "gunzip" "netstat" "mountpoint" "lesspipe" "lessfile" "lessecho" "bzmore" "bzless" "bzgrep" "bzdiff" "unicode_start" "dbus-daemon" "tempfile" "setfont" "lesskey" "kbd_mode" "uncompress" "zmore" "zless" "zgrep" "zdiff" "which" "uname" "touch" "tailf" "sleep" "rnano" "rmdir" "rbash" "ping6" "pidof" "mount" "mknod" "mkdir" "lsmod" "login" "gzexe" "fuser" "fgrep" "false" "egrep" "dmesg" "bzip2" "bzexe" "bzcmp" "bzcat" "chown" "chmod" "chgrp" "nc.openbsd" "bzfgrep" "bzegrep" "zsh4" "znew" "zcmp" "zcat" "vdir" "true" "sync" "stty" "rzsh" "ping" "open" "more" "nano" "less" "kill" "gzip" "grep" "echo" "cpio" "date" "dash" "chvt" "bash" "zsh" "tar" "sed" "pwd" "ksh" "dir" "cat" "su" "sh" "rm" "ps" "mv" "mt" "nc" "ls" "ln" "ip" "ed" "df" "cp" "dd" "../" "./")
+
+ ("/home/" (19066 58312) "mike/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

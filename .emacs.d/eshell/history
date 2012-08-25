@@ -1,0 +1,9 @@
+ls
+clear
+(setq animals '(hello world))
+animals
+animals
+./static
+./static
+telnet bbs.smth.edu.cn
+telnet newsmth.net
